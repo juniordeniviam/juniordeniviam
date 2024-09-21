@@ -14,7 +14,7 @@
 
 ### 📊 Estatísticas no GitHub
 
-![José Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniordeniviam&cache_seconds=0&&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)
+![José Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniordeniviam&cache_seconds=600&include_all_commits=true&show_icons=true&theme=dracula)
 
 
 ### 🚀 Linguagens Mais Usadas
