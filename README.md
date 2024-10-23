@@ -4,7 +4,7 @@
 
 🏢 **Atuação Profissional**
 - 🚀 Desenvolvedor Java atuando na Secretária de Saúde de Estado do Rio de Janeiro.
-- 🎓 Técnologo em Análise e Desenvolvimento de Software na [Estácio](https://estacio.br/)
+- 🎓 Técnologo em Análise e Desenvolvimento de Sistemas na [Estácio](https://estacio.br/)
 - 🎓 Cursos de aperfeiçoamento em Java, C#, entre outros realizados em Diversas plataformas, como as principais: [Udemy](https://www.udemy.com/) & [DIO](https://digitalinnovation.one/).
 
 ### Conecte-se comigo
