@@ -1,6 +1,6 @@
 ### Olá, eu sou José Carlos(Júnior) 👋
 
-✨ **Desenvolvedor de software** na <a href="https://www2.extremedigital.com.br/" target="_blank">Extreme Digital Solutions</a> e entusiasta de tecnologia.
+✨ **Desenvolvedor de software** na [Extreme Digital Solutions](https://www2.extremedigital.com.br/) e entusiasta de tecnologia.
 
 🏢 **Atuação Profissional**
 - 🚀 Desenvolvedor Java atuando na Secretária de Saúde de Estado do Rio de Janeiro.
